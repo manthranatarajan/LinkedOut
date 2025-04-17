@@ -1,10 +1,10 @@
 
 # Welcome To LinkedOut
 
-# Introduction
+## Introduction
 **LinkedOut** is a web application built to enhance networking for UTD students. Users create an account and simply swipe to connect with other users with similar interests and goals. Our aim is to simplify the Linkedin connection process with an easy-to-digest swipe focused user-interface.
 
-# Contributors
+## Contributors
 Welcome the LinkedOut repository. Any and all assets for the LinkedOut project will be stored here. This repository is managed by our team of contributors:
 
 - Benjamin Schuh | (https://github.com/BS41)
@@ -18,7 +18,7 @@ Welcome the LinkedOut repository. Any and all assets for the LinkedOut project w
 
 
 
-# Installation
+## Installation
 - TBA
 
 # Usage
