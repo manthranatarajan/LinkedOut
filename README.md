@@ -21,7 +21,7 @@ Welcome the LinkedOut repository. Any and all assets for the LinkedOut project w
 ## Installation
 - TBA
 
-# Usage
+## Usage
 - TBA
 
 > Note: **README** will be updated as the project progresses. 
